@@ -1,6 +1,6 @@
 name := "green-admin"
 
-version := "201905019"
+version := "201905026"
 
 scalaVersion := "2.12.8"
 
@@ -16,5 +16,5 @@ libraryDependencies ++= Seq(
 	"se.chimps.cameltow" %% "cameltow" % "2.0-beta17",
 	"se.chimps.bitzness" %% "bitzness-mini" % "20181222",
 	"com.typesafe.akka" %% "akka-cluster-tools" % "2.5.22",
-	"se.chimps.green" %% "green-api" % "20190519"
+	"se.chimps.green" %% "green-api" % "20190526"
 )
